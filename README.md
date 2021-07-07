@@ -1,8 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+Here are some details about me:
+- doing B.Tech in CSE at NIT Silchar
+- passionate about Competetive Programming
+- also trying my hands on Machine Learning
+- Email: rishu110067@gmail.com 
 
 <!--
-**rishu110067/rishu110067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
