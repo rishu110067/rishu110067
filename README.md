@@ -8,7 +8,7 @@ Here are some details about me:
 - Email: rishu110067@gmail.com 
 
 ---
-Note: A+ only means I push a commit to master for every little change I make.
+Note: A+ only means I push a commit to master for every little change I make :p
 
 ![rishu110067 GitHub stats](https://github-readme-stats.vercel.app/api?username=rishu110067&show_icons=true&theme=radical)
 
