@@ -4,7 +4,7 @@ Here are some details about me:
 
 - doing B.Tech in CSE at NIT Silchar
 - passionate about Competetive Programming
-- also trying my hands on Machine Learning
+- also trying my hands on Machine Learning, Parallel Programming and Web Development.
 - Email: rishu110067@gmail.com 
 
 ---
