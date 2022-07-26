@@ -4,8 +4,12 @@ Here are some details about me:
 
 - doing B.Tech in CSE at NIT Silchar
 - passionate about Competetive Programming
-- also trying my hands on Machine Learning, Parallel Programming and Web Development.
 - Email: rishu110067@gmail.com 
+- Skills
+  * Programming Languages:  C, C++, Java, Python
+  * Java Frameworks: SpringBoot, Junit, Mockito
+  * Database: SQL, MongoDB 
+  * Web Frameworks: HTML, CSS, JavaScript, Node.js, Express.js, React 
 
 ---
 <p align="center">
