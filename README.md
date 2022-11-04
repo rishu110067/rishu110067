@@ -9,7 +9,7 @@ Here are some details about me:
   * Programming Languages:  C, C++, Java, Python
   * Java Frameworks: SpringBoot, Junit, Mockito
   * Database: SQL, MongoDB 
-  * Web Frameworks: HTML, CSS, JavaScript, Node.js, Express.js, React, A-Frame, Socket.IO 
+  * Web Frameworks: HTML, CSS, JavaScript, Node.js, Express.js, React, A-Frame, Socket.IO, Flask 
 
 ---
 <p align="center">
