@@ -14,5 +14,5 @@ Here are some details about me:
 ---
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rishu110067&show_icons=true&theme=radical">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rishu110067&show_icons=true&layout=compact&theme=radical&hide=ejs,shell)](https://github.com/anuraghazra/github-readme-stats">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rishu110067&show_icons=true&layout=compact&theme=radical&hide=jupyter+notebook,ejs,shell)](https://github.com/anuraghazra/github-readme-stats">
 </p>
