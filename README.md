@@ -8,8 +8,8 @@ Here are some details about me:
 - Skills
   * Programming Languages:  C, C++, Java, Python
   * Java Frameworks: SpringBoot, JUnit, Mockito
-  * Database: SQL, MongoDB 
-  * Web: HTML, CSS, JavaScript, Node.js, Express.js, React, A-Frame, Socket.IO, Flask 
+  * Database: SQL, MongoDB, SQLAlchemy, SQLite 
+  * Web: HTML, CSS, JavaScript, Node.js, Express.js, React, A-Frame, Socket.IO, Flask Python
 
 ---
 <p align="center">
