@@ -2,14 +2,18 @@
 
 Here are some details about me:
 
-- doing B.Tech in CSE at NIT Silchar
-- passionate about Competetive Programming
+- currently working as an SDE at Zeta 
+- completed B.Tech in CSE from NIT Silchar
+- passionate about competetive programming, clean code, and building microservices
 - Email: rishu110067@gmail.com 
 - Skills
   * Programming Languages:  C, C++, Java, Python
   * Java Frameworks: SpringBoot, JUnit, Mockito
-  * Database: SQL, MongoDB, SQLAlchemy, SQLite 
-  * Web: HTML, CSS, JavaScript, Node.js, Express.js, React, A-Frame, Socket.IO, Flask Python
+  * Database: SQL, MongoDB, SQLAlchemy, SQLite, PostgreSQL 
+  * Web: HTML, CSS, JavaScript, Node.js, Express.js, React, A-Frame, Socket.IO, Python Flask
+- Experience
+  * 6 months SDE internship at Zeta
+  * 6 months SDE internship at Mastercard
 
 ---
 <p align="center">
