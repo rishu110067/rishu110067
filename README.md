@@ -13,7 +13,7 @@ Here are some details about me:
   * Web: HTML, CSS, JavaScript, Node.js, Express.js, React, A-Frame, Socket.IO, Python Flask
 - Experience
   * 6 months SDE internship at Zeta
-  * 6 months SDE internship at Mastercard
+  * 2 months SDE internship at Mastercard
 
 ---
 <p align="center">
