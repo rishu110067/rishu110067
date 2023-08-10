@@ -4,7 +4,7 @@ Here are some details about me:
 
 - currently working as an SDE at Zeta 
 - completed B.Tech in CSE from NIT Silchar
-- passionate about competetive programming, clean code, and building microservices
+- interested in competetive programming, clean code, and building microservices
 - Email: rishu110067@gmail.com 
 - Skills
   * Programming Languages:  C, C++, Java, Python
